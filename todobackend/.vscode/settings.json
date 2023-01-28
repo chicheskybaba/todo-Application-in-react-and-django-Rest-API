@@ -1,0 +1,8 @@
+{
+  "python.linting.enabled": false,
+  "python.linting.lintOnSave": false,
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.testing.autoTestDiscoverOnSaveEnabled": false,
+  "python.terminal.activateEnvironment": false,
+  "python.testing.promptToConfigure": false
+}
